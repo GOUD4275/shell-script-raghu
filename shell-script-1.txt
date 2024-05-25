@@ -1,1 +1,3 @@
 shell-script-Notes
+
+echo -e "\e[1;33mInstance Name\e[0m"
